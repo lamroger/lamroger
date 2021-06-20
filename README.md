@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Roger (he/him) and I'm a software developer currently based in Philadelphia.
+
+Core values I hold close are Learning, Service, and Love.
+
+When I'm not working at Paperspace 💻 , you can find me at the dog park with my dog Waffie 🐶 , or working on a side project ([caratdrop.com](https://www.caratdrop.com) 💎 ), or eating sushi 🍣 .
+
 <!--
 **lamroger/lamroger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
