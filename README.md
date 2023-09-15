@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-My name is Roger (he/him) and I'm a software developer currently based in Philadelphia.
+My name is Roger (he/him) and I'm a software developer currently based in Los Angeles.
 
-Core values I hold close are Learning, Service, and Love.
+Values I hold close are Learning, Service, and Love.
 
-When I'm not working at CZI 💻 , you can find me at the dog park with my dog Waffie 🐶 , working on a side project, or eating sushi 🍣 .
-
+Feel free to message me @ www.linkedin.com/in/lam-roger
 <!--
 **lamroger/lamroger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
