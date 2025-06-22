@@ -2,9 +2,9 @@
 
 My name is Roger (he/him) and I'm a software developer currently based in Los Angeles.
 
-Values I hold close are Learning, Service, and Love.
+I post slides and blog posts @ https://lamroger.com
 
-Feel free to message me @ www.linkedin.com/in/lam-roger
+Feel free to message me @ https://www.linkedin.com/in/lam-roger
 <!--
 **lamroger/lamroger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
