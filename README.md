@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My name is Roger (he/him) and I'm a software developer currently based in Los Angeles.
-
 I post slides and blog posts @ https://lamroger.com
 
 Feel free to message me @ https://www.linkedin.com/in/lam-roger
